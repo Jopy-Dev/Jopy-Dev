@@ -23,7 +23,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Jopy-Dev&theme=tokyonight-duo&card_width=500&card_height=200" alt="GitHub Streak"/>
 </p>
-  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jopy-dev&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00f5d4&line=a78bfa&point=f59e0b" width="100%"/>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jopy-Dev/Jopy-Dev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jopy-Dev/Jopy-Dev/output/github-contribution-grid-snake.svg">
