@@ -9,7 +9,7 @@
 <hr style="height: 5px">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&duration=3000&pause=1000&color=F5F5F5&center=true&vCenter=true&repeat=false&width=500&lines=Tech+Stack+%26+Expertise" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&duration=1&pause=1&color=F5F5F5&center=true&vCenter=true&repeat=false&width=500&lines=Tech+Stack+%26+Expertise" alt="Typing SVG" />
 </p>
 
 <p align="center">
