@@ -28,11 +28,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jopy-dev&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00f5d4&line=a78bfa&point=f59e0b" width="100%"/>
 </p>
 
-<picture>
+<div align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jopy-Dev/Jopy-Dev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jopy-Dev/Jopy-Dev/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jopy-Dev/Jopy-Dev/output/github-contribution-grid-snake.svg">
-</picture>
+</div>
 
 
 
