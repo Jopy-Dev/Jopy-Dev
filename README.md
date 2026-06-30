@@ -7,16 +7,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/click-to%20view%20my%20portfolio-green?style=for-the-badge&color=blue"/>
-</p>
-
-<hr style="height: 5px">
-
-<p align="center">
   <a href="https://jopy-dev.com">
     <img src="https://img.shields.io/badge/click-to%20view%20my%20portfolio-green?style=for-the-badge&color=blue"/>
   </a>
 </p>
+
+<hr style="height: 5px">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,ts,react,nextjs,nodejs,express,python,java" /><br/>
