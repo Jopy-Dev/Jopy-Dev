@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Web+Apps+%26+SaaS+Systems;AI+SaaS+%26+Automation+Systems;AI+Product+Builder;Global+Freelance+Developer" alt="Typing SVG" />
 </p>
 
+</div>
+
 <p align="center">
   <a href="https://jopy-dev.com">
     <img src="https://img.shields.io/badge/click-to%20view%20my%20portfolio-green?style=for-the-badge&color=blue"/>
