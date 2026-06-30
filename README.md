@@ -7,10 +7,11 @@
 </h1>
 
 <div align="center">
+</div>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&duration=3000&pause=1000&color=F5F5F5&center=true&vCenter=true&repeat=false&width=500&lines=Tech+Stack+%26+Expertise" alt="Typing SVG" />
 </p>
-</div>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java" /><br/>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,supabase,firebase,tailwind,redux,git,docker" /><br/>
