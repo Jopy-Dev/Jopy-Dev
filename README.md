@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Startup+Founder;Web+Apps+%26+SaaS+Systems;Global+Freelance+Developer" alt="Typing SVG" />
 </h1>
 
-<h1 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&duration=3000&pause=1000&color=F5F5F5&center=true&vCenter=true&repeat=false&width=500&lines=Tech+Stack+%26+Expertise" alt="Typing SVG" />
-</h1>
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java" /><br/>
