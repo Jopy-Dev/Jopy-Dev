@@ -7,13 +7,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/click-to%20view%20my%20portfolio-green?style=for-the-badge&color=blue&link=https%3A%2F%2Fjopy-dev.com%2F"/>
+  <img src="https://img.shields.io/badge/click-to%20view%20my%20portfolio-green?style=for-the-badge&color=blue"/>
 </p>
 
 <hr style="height: 5px">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&duration=1&pause=1&color=F5F5F5&center=true&vCenter=true&repeat=false&width=500&lines=Tech+Stack+%26+Expertise" alt="Typing SVG" />
+  <a href="https://jopy-dev.com">
+    <img src="https://img.shields.io/badge/click-to%20view%20my%20portfolio-green?style=for-the-badge&color=blue"/>
+  </a>
 </p>
 
 <p align="center">
