@@ -36,5 +36,13 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jopy-Dev/Jopy-Dev/output/github-contribution-grid-snake.svg">
 </picture>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&duration=1&pause=1&color=F5F5F5&center=true&vCenter=true&repeat=false&width=900&lines=Thanks+for+visiting!+Drop+a+%E2%AD%90+on+something+you+like+%E2%80%94+it+means+a+lot." alt="Typing SVG" />
+</p>
 
+<div align="center">
+
+  ![Visitor Counter](https://count.getloli.com/get/@jopy-dev?theme=rule34)
+  
+  <br/>
 
