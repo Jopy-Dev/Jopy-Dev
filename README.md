@@ -5,7 +5,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Startup+Founder;Web+Apps+%26+SaaS+Systems;Global+Freelance+Developer" alt="Typing SVG" />
 </h1>
-
+<div align="center">
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&duration=3000&pause=1000&color=F5F5F5&center=true&vCenter=true&repeat=false&width=500&lines=Tech+Stack+%26+Expertise" alt="Typing SVG" />
 </p>
@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,supabase,firebase,tailwind,redux,git,docker" /><br/>
   <img src="https://skillicons.dev/icons?i=aws,vercel,linux,vscode,blender,figma,postman,github" />
 </p>
-
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jopy-Dev/Jopy-Dev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jopy-Dev/Jopy-Dev/output/github-contribution-grid-snake.svg">
