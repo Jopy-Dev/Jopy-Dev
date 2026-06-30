@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/click-to%20view%20my%20portfolio-green?style=for-the-badge&color=blue&link=https%3A%2F%2Fjopy-dev.com%2F)"/>
+  <img src="https://img.shields.io/badge/click-to%20view%20my%20portfolio-green?style=for-the-badge&color=blue&link=https%3A%2F%2Fjopy-dev.com%2F"/>
 </p>
 
 <hr style="height: 5px">
