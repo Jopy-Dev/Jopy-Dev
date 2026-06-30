@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jopy-Dev/Jopy-Dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 <!--
 **Jopy-Dev/Jopy-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
