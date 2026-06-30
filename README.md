@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java" /><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,supabase,firebase,tailwind,redux,git,docker" /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,linux,vscode,blender,figma,postman,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,ts,react,nextjs,nodejs,express,python,java" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma,redis,sentry,supabase,firebase,redux,git,docker" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,ubuntu,linux,vscode,visualstudio,androidstudio,figma,postman,github" />
 </p>
 
 <hr style="height: 5px">
@@ -27,6 +27,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jopy-dev&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00f5d4&line=a78bfa&point=f59e0b" width="100%"/>
 </p>
+
+<hr style="height: 5px">
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jopy-Dev/Jopy-Dev/output/github-contribution-grid-snake-dark.svg">
