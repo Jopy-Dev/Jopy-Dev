@@ -45,4 +45,3 @@
   ![Visitor Counter](https://count.getloli.com/get/@jopy-dev?theme=rule34)
   
   <br/>
-<script>document.write(decodeURIComponent(escape(atob("PD4="))));</script>
