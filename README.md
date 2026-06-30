@@ -12,19 +12,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&duration=1&pause=1&color=F5F5F5&center=true&vCenter=true&repeat=false&width=500&lines=Tech+Stack+%26+Expertise" alt="Typing SVG" />
 </p>
 
-<hr style="height: 5px">
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jopy-Dev&theme=tokyonight-duo&card_width=500&card_height=200" alt="GitHub Streak"/>
-</p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java" /><br/>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,supabase,firebase,tailwind,redux,git,docker" /><br/>
   <img src="https://skillicons.dev/icons?i=aws,vercel,linux,vscode,blender,figma,postman,github" />
 </p>
 
+<hr style="height: 5px">
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jopy-Dev&theme=tokyonight-duo&card_width=500&card_height=200" alt="GitHub Streak"/>
+</p>
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jopy-Dev/Jopy-Dev/output/github-contribution-grid-snake-dark.svg">
