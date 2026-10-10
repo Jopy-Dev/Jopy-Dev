@@ -59,4 +59,6 @@
 
 ![Visitor Counter](https://count.getloli.com/get/@jopy-dev?theme=rule34)
 
+<sub>⭐️ From [Jopy](https://github.com/Jopy-Dev/Jopy-Dev) | Built with ❤️ using modern GitHub Profile tools</sub>
+
 </div>
